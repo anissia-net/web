@@ -420,7 +420,7 @@
       <div class="info-box as-box">
         <div class="w-[50px]"><img class="w-full" src="./schedule/icon-code.svg"/></div>
         <div class="flex-1 pl-4">
-          <a href="https://github.com/anissia-net/anissia-web" target="_blank"><h5>프론트엔드</h5></a>
+          <a href="https://github.com/anissia-net/web" target="_blank"><h5>프론트엔드</h5></a>
           <p>Vue.js, Typescript</p>
         </div>
       </div>
@@ -428,7 +428,7 @@
       <div class="info-box as-box">
         <div class="w-[50px]"><img class="w-full" src="./schedule/icon-code.svg"/></div>
         <div class="flex-1 pl-4">
-          <a href="https://github.com/anissia-net/anissia-core" target="_blank"><h5>백엔드</h5></a>
+          <a href="https://github.com/anissia-net/core" target="_blank"><h5>백엔드</h5></a>
           <p>Kotlin, Spring, JPA, QueryDSL, Elasticsearch</p>
         </div>
       </div>
