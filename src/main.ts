@@ -1,5 +1,5 @@
-import './common/style.pcss'
 import {createApp} from 'vue'
+import './common/style.pcss'
 import App from './App.vue'
 import router from "./common/router";
 import {createPinia} from "pinia";
