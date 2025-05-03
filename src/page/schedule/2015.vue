@@ -176,7 +176,7 @@ onBeforeUnmount(() => {
 });
 </script>
 
-<style lang="postcss" scoped>
+<style scoped>
 @keyframes sc2015-popup {
   from { background-color: rgba(0, 0, 0, 0); } to { background-color: rgba(0, 0, 0, .3); }
 }

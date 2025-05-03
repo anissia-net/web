@@ -155,6 +155,6 @@ onUnmounted(() => {
 
 </script>
 
-<style lang="postcss">
+<style>
 
 </style>

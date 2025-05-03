@@ -116,7 +116,7 @@ onBeforeRouteUpdate((to, from, next) => {
 
 </script>
 
-<style lang="postcss" scoped>
+<style scoped>
 .anissia-node-hover-view-del:not(:hover) i { display: none }
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {

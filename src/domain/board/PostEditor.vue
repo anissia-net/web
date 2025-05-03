@@ -228,7 +228,7 @@ onMounted(() => {
 
 </script>
 
-<style lang="postcss">
+<style>
 .editor-btn-box {
   i {
     @apply inline-block text-center !leading-[40px] w-[36px] h-[40px] cursor-pointer text-sm hover:text-red-700 dark:hover:text-red-500

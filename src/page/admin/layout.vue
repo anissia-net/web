@@ -40,7 +40,7 @@ import anissia from "../../common/anissia";
 const url = anissia.url
 </script>
 
-<style lang="postcss">
+<style>
 .menu-item {
   @apply grow p-6 w-1 block max-w-sm text-center;
   img {

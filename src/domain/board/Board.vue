@@ -217,6 +217,6 @@ onMounted(() => {
 });
 </script>
 
-<style lang="postcss">
+<style>
 
 </style>
