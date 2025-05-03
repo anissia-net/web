@@ -282,7 +282,7 @@ onBeforeUnmount(() => {
 });
 </script>
 
-<style>
+<style lang="postcss">
 /* 애니메이션 CSS */
 #sc2024 {
   .fade-enter-active, .fade-leave-active { transition: opacity 0.3s; }

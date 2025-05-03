@@ -21,7 +21,10 @@ IDE 혹은 텍스트 에디터 설치하고 node.js를 컴퓨터에 설치해야
     * IDE 에서 다음 명령어 실행
         * **운영서버** API 사용 - https://anissia.net
             ``` shell
-            npm run dev --mode prod-server-api
+            # 직접  
+            npm run dev -- --mode prod-server-api
+            # 스크립트
+            npm run prod-api
             ```
         * **로컬서버** API 사용 - http://localhost:8001
             - 우선 코어서버(백엔드)를 가동해야 합니다.

@@ -94,7 +94,7 @@ onUnmounted(() => {
 
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 :global(.anissia-home-mode-mob .anissia-home-reduce-5:nth-child( n + 6 )) { display: none }
 :global(.anissia-home-mode-mob .anissia-home-reduce-10:nth-child( n + 11 )) { display: none }
 </style>

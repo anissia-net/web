@@ -151,7 +151,7 @@ onUnmounted(() => {
 
 </script>
 
-<style>
+<style lang="postcss">
 .as-fa-spin {
   animation: fa-spin 4s infinite linear !important;
 }

@@ -18,7 +18,7 @@ function updateColor(e: any) {
 }
 </script>
 
-<style>
+<style lang="postcss">
 @import url('vue-accessible-color-picker/styles');
 .vacp-color-picker {
   border-radius: 3px; padding:8px;

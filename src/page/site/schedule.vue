@@ -687,7 +687,7 @@ onUnmounted(() => {
 
 </script>
 
-<style scoped>
+<style lang="postcss" scoped>
 .sub-title {
   @apply block mt-4 mb-2 text-center text-sm font-medium text-gray-900 dark:text-gray-400;
 }

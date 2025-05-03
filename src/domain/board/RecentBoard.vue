@@ -28,6 +28,6 @@ const list = computed(() => (props.modelValue as any)[props.ticker!!]) as Ref<To
 
 </script>
 
-<style>
+<style lang="postcss">
 
 </style>

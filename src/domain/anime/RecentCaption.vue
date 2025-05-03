@@ -25,6 +25,6 @@ const list = ref([]) as Ref<AnimeCaption[]>;
 animeRemote.getCaptionRecent().then(data => list.value = data);
 </script>
 
-<style>
+<style lang="postcss">
 
 </style>
