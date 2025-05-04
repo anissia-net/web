@@ -9,7 +9,10 @@
 
       <div v-if="openHelp" class="p-3 mt-1 mb-3 text-sm leading-[2] as-box">
         명령어 도움말<br/>
-        <b>/권한반납 닉네임</b> - 자막제작자 권한을 반납합니다.
+        <b>/권한반납 닉네임</b> - 자막제작자 권한을 반납합니다.<br/>
+        <b>/차단 닉네임 차단일 사유</b> - ex) /차단 홍길동 360 광고글 : 추후 게시판 삭제까지 같이 되도록 변경될 예정<br/>
+        <b>/검색엔진 전체갱신</b> - 위험<br/>
+        <b>/검색엔진 초기화</b> - 위험
       </div>
 
       <div v-if="translatorApplyCount" class="py-3 px-1 text-sm leading-[1.8] border-b border-gray-300 dark:border-zinc-800">
